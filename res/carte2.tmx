@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="50" height="28" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="terrain_atlas.tsx"/>
+ <layer id="1" name="Calque de Tuiles 1" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACtVXWw7DIAzr/a9Ter/9rBJCcWInoes+ok1dB35BYBzHcU01vnX9WQ3j81c8TqHewEPBl/Fj5bRLVwUbqsiP+3tGnw5dEQ8Lc+TLjalDf09TxnekfcTN8iKz7hS9M7+zPHbkJMKTyQ/ivBt7lEGVxwne3a1/xM/zh+GBfGKrO2fM2pl5WLgzPLp5Rv+JeDBjoHE7OVV4sGNk83LvhZ0+e2uqm8fsg9IjLbzec9XTTLYq62LdQ9c+sWqlZhNp3uGbwsHSkJnPOpNUOFjzW33MemflN+etioHJGcoec1fyeHg6qHwQtwz2KBdeNrvPJSgzlTOQ51mVh4Wt8+7qeYH25Mp8O3Crnns6ev3rCawqp6ivMj2ZuUNm7pnI31lPdh9nc4X06VwXSq7UPrCrEB42S28pT9cPDI4t1uAVAAA=
+  </data>
+ </layer>
+ <layer id="2" name="Calque de Tuiles 2" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAX4wDnGgXYBdcA7KvgDFBYDHR7UsB8UFtQID0rdMBzAQKcHaoHR+BhcgB7x4c1EezvoAbKp6I/R9DO4wGCNj53ANLeLhHRHrfYHLYAoM3ZMKzeQawY1yytqxAe5ZlCzvBoFtAWk5vNRMAqQwUhsY1FaR8gDsQIePr0Apf19eyB2wMOnJsBWRvFCxXD193mJjNN4IE7Aw6c10CXgTkLyMFAPxA14+LQCZkD3nWCE0OZAbMEEYSPzjzMi2PjAHGC7bD6QXgDEv5khGMafg6PNNpIBAHjvNoLgFQAA
+  </data>
+ </layer>
+ <layer id="3" name="collision" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACtVX7W0CMQzlciswShcpnaR0klKxSCV+tRI7cOJXK7FDjwGa6BqdeTzHSa4nWksWwTixX/wV+max6H64hzWypmft1c6Te1J2tX0oq6G4974deOX5oeVnRh+ZLvqTwtQJm2ivq8QRbT22A689P7WjnOFGXSteeGeRmT2pb8WWxUPLJy1+qFtKDDvenXaXf50wr6bUyy1Jw5HKKSuXa31gn8wvlpPye01O5eDYGmeiz4dMH1hdy++lZPW8XcOxaDVag2NK30V/tJgEHBqWQLXxYP3Jiv0UijgYlg2phUPmPct9Ue84I45jc8nSr1cSy5p44FyaY3ZgD0L+zTrvZ8RRSikcZ9KTUu+PW87CFI6lG9dzzm/r/ZRj6yuhc+d47uTiOBdg1WLKZkUkrV+iHGtAznCcJ4xCPN88v7tLXdzPzkRsDOOO2N27Qb5312do7xYLR4jnh+dPwJETSxkHLedY3z+5QX4SOFI22HxP1X9JP8jZz+xpstQ9MRzyf6O2ZvkjKWcm9Q0/s7T/aHkm/zdqa8tW+G3V2jp4Zg2hL3gfrD/k5lWuzrP3f+P5RcGh2WP+zPlOlIR916qBIFu3I2s44nrOd2ItSR9lnwt0Bv9ZHv0HWrrrWCLumlor7S9TKb5PukRMtHhq6xRbNrSeYsmY/BvFJbQt4BUAAA==
+  </data>
+ </layer>
+</map>

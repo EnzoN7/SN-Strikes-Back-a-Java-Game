@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="50" height="28" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" source="terrain_atlas.tsx"/>
+ <layer id="1" name="Calque de Tuiles 1" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2YSQ7DIAxFM1yz6u2671G6IvQ2JWqRiIUHTBiUEukrBLDhyRhQzDJNm5N1ejuZ37dB6i1ShnUxe84H5Y9qh/MrzZHq77HyGhzHPmH5PuNK5bBCjpidhsPXUQxevXNIGHrnkDJ49ciRylArHjBvz4yHJs+lZ4m0zOUHx6PZd8/muM1fcRz7e38k+VCbwzOEojg094bSHDEGLh49csB4SNYVdidszeHzQ5LnvXNI96scDuzc0q7bwdGeQ8KUMk5tjmchDrPU5XhdJB5XWVeDoxwHtPtnDsxHSw7q/51kfpr1m/OEfnI4KHvYTo2zgT4xe8o/FUduHh9XPWBD4BUAAA==
+  </data>
+ </layer>
+ <layer id="4" name="Calque de Tuiles 2" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2VbQ6DIAxAwTMs2w5i3M7pUTyD8eOvR1l2gLVZiIkK1CBrZ/qSJqIN9AGCMTOT3X42nhwfmEPJy4V6rHPUIx31WOecxeMlxMNXB6U+zrU4cnzOtUC45/EouD3c+Cn/JiJlP6R6cHM2Dx/c+4WK9Pl+23DbEfOg9pOLSxFuO2L7htpPLsoi3P51P4qi/Ae18LuGSrPTY7TfCNHC9wrOwAfEE6ITOFfogHV2dnbaih5iIDhzsazX+bSL91dYhxvEXe+mJD62Gw3c4BUAAA==
+  </data>
+ </layer>
+ <layer id="6" name="Calque de Tuiles 3" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2VPQ7CMAyF7XAH/noS4JJMwEmAGxSWjsApGIHCwmOoqEoDkWhSp/InvcWqXb8+JSVqhgUTLaEVNzSwJQ7Y/widIvexxv4baBu5D81DFpqHLDQPWWgesogpj4ztKudR1Ko9UjizXeU8ilpWeUYK375t3fmQ6OEXoc5Hjvl36OHpPaHuq5EhGkOJ8TM/VB4T7D+FZp586P9DFl3JQ33Iois+Ltj/Ct1a9rHnernSx30+gIbGPstVuz/2cPEx7332vWq23tRxb+XNE4qfe7LgFQAA
+  </data>
+ </layer>
+ <layer id="7" name="Calque de Tuiles 4" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAW0Bl+YGBi+4sHfmAbahcQBEWb88mIE5AcLGPXH4AKj/hhcwAToTlM82GyI+GMUjIJRMApGwSgYBaNgFIyCUTAKkMFpxoF2wcCCABr25YgJ2w9ANR/JjANk8wug/jAY7ZuiAABXG5s24BUAAA==
+  </data>
+ </layer>
+ <layer id="3" name="collision" width="50" height="28">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu1WXU7DMAzuzwmAvewYMF44yErFPQrqKQaCDolLDDTuMdBOws8LbyRqLCwTJ27TH4T6SdbaOHb8OV+6RJEb8zTML53f9Tp95x+Lx1lgvBR98xgKE4/u8JDKjYNPv0Ppe0KNper3Po6ic6bv2p+lvB9QKf/aYvcD7WdheFwx62n/Zcr7Q7AU9EeKytM3n7/NepCrCOjPV1L/Uj3ZeoPHpPpqgsrUoG2NniU9m6NeYL3YelMQfxN9QY154F7icwd8sT5gHfxO16sc8yf8RpfnfUyEnPe+wekan2k6Nmk2HKv45/kz5uc1xZv6f3gX2kcSlk/Hb1DtM0E+KQ6Uxg6FdmTRY0m+Ha58Or4vHscq94nQFoRHablrufItLDy0zlYOfV0r302H+qMozb0jE34DoR7KY2PGOC6PavypBY9bFXPniQMOei+kPKCeHcp9mtTvOzKO8aLGX1vw2KqYZxS3Jzkoh0z4HYd69P0pN/NzdKfC4+DjzAbw0XySWFc+l9He/EVAP+BOzfVnTNB989Vqs4v4f9g32OJvjuAVAAA=
+  </data>
+ </layer>
+</map>
